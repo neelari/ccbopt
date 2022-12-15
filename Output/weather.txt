@@ -1,0 +1,12 @@
+﻿Hyderabad:27
+Goa:32
+Delhi:26
+Kolkata:29
+London:0
+Chicago:2
+Hyderabad:27
+Goa:32
+Delhi:26
+Kolkata:29
+London:1
+Chicago:2
